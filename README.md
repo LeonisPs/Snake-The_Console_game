@@ -11,13 +11,21 @@
    |_| \___/  |____/|_| \_/_/   \_\_|\_\_____|   
 ```                                                
 ---------------------------------------------------------------------------------
-  <h2>Getting Started:<h2>
+  <h2>Getting Started:</h2>
+<p>
+    - The game is a project by two students Leonis and Pavlo expirementing with coding!
 
-- The game is a project by two students Leonis and Pavlo expirementing with coding!
+    - Install the game by either downloading the exe file or compiling the code.
+</p>
 
-- Install the game by either downloading the exe file or compiling the code.
-  
-
+  <h2>Controls:</h2>
+<p>
+    - Arrow keys to move in menu
+    - Enter to select an option
+    - Esc to quit
+    - P to pause the game
+    - Wasd or Arrow keys to move the snake
+</p>
 
 ![snakemain](https://github.com/user-attachments/assets/7fbce4df-57aa-4f5b-b368-e0bdb042aa85)
 ![snakeingame](https://github.com/user-attachments/assets/a037ceb5-a392-4c1c-acc4-555fa684c389)

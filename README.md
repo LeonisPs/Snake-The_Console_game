@@ -18,6 +18,7 @@
 <br>
     - Install the game by either downloading the exe file or compiling the code.
 </p>
+
 ![snakeingame](https://github.com/user-attachments/assets/a037ceb5-a392-4c1c-acc4-555fa684c389)
   <h2>Controls:</h2>
 <p>

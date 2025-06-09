@@ -13,7 +13,7 @@
 ---------------------------------------------------------------------------------
   <h2>Getting Started:<h2>
 
-- The game is a passion project by two students Leonis and Pablo
+- The game is a project by two students Leonis and Pavlo expirementing with coding!
 
 - Install the game by either downloading the exe file or compiling the code.
   
